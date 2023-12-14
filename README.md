@@ -1,4 +1,4 @@
-# DSCI-550-Project. Comment Sentiment Analysis on youtube videos
+# DSCI-550-Project. Comment Sentiment Analysis on youtube videos (attached is more descriptive final report)
 ## I was interested to see if the sentiment of comments on youtube could help predict the overall like to dislike ratio
 ## I extracted data using google cloud and the youtube api
 ## I used NLTK and Hugging Face to perform sentiment analysis
